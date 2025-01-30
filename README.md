@@ -42,7 +42,7 @@ Deployment: (Optional) Heroku, Netlify, Vercel, or AWS.
 
 Project Structure
 Copy
-mern-chat-app/
+``` mern-chat-app/
 ├── frontend/                  # Frontend (React.js)
 │   ├── public/
 │   ├── src/
@@ -65,6 +65,9 @@ mern-chat-app/
 │
 ├── .gitignore               # Git ignore file
 ├── README.md                # Project documentation
+```
+
+
 Setup Instructions
 Prerequisites
 Node.js and npm installed on your machine.
